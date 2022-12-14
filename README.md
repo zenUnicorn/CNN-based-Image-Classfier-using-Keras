@@ -19,7 +19,7 @@ Building CNN based Image Classfier using Keras and deploying it to Comet.
 
 ## Links 🌍 
 - [Comet](www.comet.ml)
-- [Dacade](www.dacade.org)
+- [Tensorflow](www.dacade.org)
 
 Built with ❤️  cc: 2020
 
