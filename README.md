@@ -10,10 +10,10 @@ Building CNN based Image Classfier using Keras and deploying it to Comet.
 ![Screenshots!](/img/download2.png "Screenshots")
 
 ## Tools 🛠 
-- Sophia programming language
-- JavaScript
-- GitHub
-- HTML / CSS
+- Python
+- CNN
+- Keras
+- Tensorflow
 
 ## Links 🌍 
 - [Aeternity](www.aeternity.com)
