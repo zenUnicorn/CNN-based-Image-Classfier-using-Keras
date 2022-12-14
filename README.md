@@ -1,6 +1,8 @@
 # CNN-based-Image-Classfier-using-Keras
 Building CNN based Image Classfier using Keras and deploying it to Comet.
 
+
+
 ## Hoe to use ✨
 
 * Go to this link http://base.aepps.com/
@@ -16,7 +18,7 @@ Building CNN based Image Classfier using Keras and deploying it to Comet.
 - Tensorflow
 
 ## Links 🌍 
-- [Aeternity](www.aeternity.com)
+- [Comet](www.comet.ml)
 - [Dacade](www.dacade.org)
 
 Built with ❤️  cc: 2020
