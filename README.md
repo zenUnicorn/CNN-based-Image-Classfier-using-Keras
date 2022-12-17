@@ -18,4 +18,3 @@ Building CNN based Image Classfier using Keras and deploying it to Comet.
 
 Built with ❤️  cc: 2020
 
-Thanks!
