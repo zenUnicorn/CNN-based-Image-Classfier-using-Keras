@@ -1,7 +1,7 @@
 # CNN-based-Image-Classfier-using-Keras
 Building CNN based Image Classfier using Keras and deploying it to Comet.
 
-
+More text...
 
 
 ![Screenshots!](/img/download2.png "Screenshots")
