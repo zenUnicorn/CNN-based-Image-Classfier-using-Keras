@@ -16,11 +16,10 @@ Convolutional neural networks (CNNs) are a subtype of artificial neural networks
 
 ## Tools 🛠 
 - Pandas  `pip install pandas`
-
-- Numpy
-- TensorFlow
-- Keras_tuner
-- Comet
+- Numpy  `pip install numpy`
+- TensorFlow  `pip install tensorflow`
+- Keras_tuner  `pip install kera_turner`
+- Comet  `pip install comet-ml`
 
 
 ## Links 🌍 
