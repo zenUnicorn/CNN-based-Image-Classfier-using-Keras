@@ -9,6 +9,9 @@ A branch of machine learning is deep learning. Deep learning systems can perform
 ## Keras
 Keras, an open-source, deep-learning library, was developed by Francois Chollet, a deep-learning researcher at Google. With Keras, users may rapidly translate code into a product because of its user-friendly design principles. This indicates that it was created following a set of criteria that aims to make it effective, dependable, and available to a broad audience. It has several uses in both business and academics as a result. It also offers comprehensive developer instructions.
 
+## CNN
+Convolutional neural networks (CNNs) are a subtype of artificial neural networks that have been popular in several applications linked to computer vision and are attracting interest in other domains.
+
 
 
 ## Tools 🛠 
@@ -22,7 +25,6 @@ Keras, an open-source, deep-learning library, was developed by Francois Chollet,
 ## Links 🌍 
 - [Comet](www.comet.ml)
 - [Tensorflow](www.dacade.org)
-- 
 
 Built with ❤️  cc: 2020
 
