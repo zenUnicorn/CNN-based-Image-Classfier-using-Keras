@@ -4,7 +4,7 @@ Building CNN based Image Classfier using Keras and deploying it to Comet.
 More text...
 
 
-![Screenshots!](/img/download2.png "Screenshots")
+![Screenshots!](0_AONVmd3v4wO_dWr6.png "Screenshots")
 
 ## Tools 🛠 
 - Python
