@@ -25,6 +25,4 @@ Convolutional neural networks (CNNs) are a subtype of artificial neural networks
 ## Links 🌍 
 - [Comet](www.comet.ml)
 - [Tensorflow](www.dacade.org)
-- 
-
 
